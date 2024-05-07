@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there I'm Zhi!
 
-# I'm Zhi!
-### Welcome to my profile
+
+## 🔧 What I'm working on
