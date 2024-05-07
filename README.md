@@ -1,5 +1,5 @@
 ## 👋 Hi there I'm Zhi!
-Hello! 你好！Apa Khabar! I'm Zhi, a 2nd-year Bachelor of Computer Science student at UNSW, specializing in frontend development and UX/UI design. Welcome to my GitHub profile! Here, you'll find a collection of my projects and experiments in web development.
+Hello! 你好! Apa Khabar! I'm a 2nd-year Bachelor of Computer Science student at UNSW, specializing in frontend development and UX/UI design. Welcome to my GitHub profile! Here, you'll find a collection of my projects and experiments in web development.
 
 ## 🔧 About Me
 - 💻 Currently working on front-end projects and honing my design skills.
