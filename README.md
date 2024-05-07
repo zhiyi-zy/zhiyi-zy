@@ -12,5 +12,5 @@ Hello! 你好! Apa Khabar! I'm a 2nd-year Bachelor of Computer Science student a
 Interested in collaborating on a project or have any questions? Feel free to reach out to me at [zhiyi003@gmail.com](mailto:zhiyi003@gmail.com).
 
 ## 🚀 Let's Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/in/zhiyizy/)) to stay updated on my latest projects and professional endeavors.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/zhiyizy/) to stay updated on my latest projects and professional endeavors.
 
